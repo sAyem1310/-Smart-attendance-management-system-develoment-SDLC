@@ -6,7 +6,7 @@ A Smart Attendance Management System (SAMS) is a software solution designed to a
 Developing a Smart Attendance Management System involves several stages in the Software Development Life Cycle (SDLC). Here's a simplified overview:
 
 
-1.Planning:
+#1.Planning:
 
  Project Scope: Define the scope of the attendance management system, including features, functionalities, and user requirements.
  Feasibility Study: Assess the technical and financial feasibility of the project.
