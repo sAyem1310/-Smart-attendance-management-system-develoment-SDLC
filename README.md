@@ -3,7 +3,7 @@
 
 A Smart Attendance Management System (SAMS) is a software solution designed to automate the process of recording and tracking attendance for various purposes, such as schools, colleges, businesses, or any organization that requires a systematic way of monitoring attendance. The system typically utilizes technology to simplify and enhance the attendance management process.
 
-The SDLC of Smart Attendance Management System is:
+Developing aSmart Attendance Management System involves several stages in the Software Development Life Cycle (SDLC). Here's a simplified overview:
 
 
 1.Planning:
