@@ -39,7 +39,7 @@ User Acceptance Testing (UAT): Let users test the application to ensure it meets
 Deployment Planning: Develop a plan for deploying the mobile application, including server setup and configuration.
 Release: Make the application available to users.
 
-# 7.Maintenance and Support:
+# 7.Maintenance:
 
 Bug Fixes: Address and fix any issues or bugs identified after deployment.
 Updates and Enhancements: Implement updates and add new features based on user feedback and evolving
