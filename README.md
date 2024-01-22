@@ -1,3 +1,6 @@
+Course Title:Software Engineering
+Couse Code:CSE305
+
 # -Smart-attendance-management-system-develoment-SDLC
 
 
@@ -43,3 +46,17 @@ Release: Make the application available to users.
 
 Bug Fixes: Address and fix any issues or bugs identified after deployment.
 Updates and Enhancements: Implement updates and add new features based on user feedback and evolving
+
+
+# Submitted By
+
+Name: A.S.M Sayem
+ID : 1902064
+L-3, S-I
+
+# Department: CSE
+
+Submitted TO
+Name: Pankaj Bhowmik Sir
+Lecturer
+Department of CSE, HSTU
